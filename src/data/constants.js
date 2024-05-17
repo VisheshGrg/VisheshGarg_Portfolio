@@ -376,7 +376,7 @@ export const Bio = {
       description:
         "A comprehensive project management system where users can sign up, log in, add their projects, invite team members, chat with their team, upgrade their accounts using Razorpay, create issues, and write comments. The frontend is developed using React, while the backend is powered by Spring Boot and MySQL.",
       image:
-        "https://res.cloudinary.com/dxcrwlhv0/image/upload/v1712859976/Screenshot_2024-04-11_234459_wboflg.png",
+        "https://res.cloudinary.com/dxcrwlhv0/image/upload/v1715954150/Screenshot_2024-05-17_192435_in14bs.png",
       tags: ["Javascript", "HTML", "CSS", "Spring Boot","ReactJs","REST","Vercel","Tailwind","Java","JSX"],
       category: "web app",
       github: "https://github.com/VisheshGrg/SourceBox",
