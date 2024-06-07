@@ -291,7 +291,7 @@ export const projects = [
     description:
       "EMS is a robust Employee Management System designed to streamline HR processes. Employees can securely register and log in, dynamically manage personal and educational information, and handle office files. The system allows for viewing salary details, sending leave requests, and marking attendance using geolocation. Administrators can efficiently manage leave requests, update employee information, and oversee various leave types, significantly reducing HR workload and enhancing organizational efficiency. The frontend is made using ReactJs, tailwind css, Shadcn UI Library, while the backend runs on Java. MySQL is used for database.",
     image:
-      "https://res.cloudinary.com/dxcrwlhv0/image/upload/v1715954150/Screenshot_2024-05-17_192435_in14bs.png",
+      "https://res-console.cloudinary.com/dxcrwlhv0/thumbnails/v1/image/upload/v1717756059/U2NyZWVuc2hvdF8yMDI0LTA2LTA3XzEyMzYzMF90NGNrZ2o=/as_is",
     tags: [
       "Java",
       "ReactJs",
