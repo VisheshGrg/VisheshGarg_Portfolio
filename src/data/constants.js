@@ -269,9 +269,6 @@ export const projects = [
     image:
       "https://res.cloudinary.com/dxcrwlhv0/image/upload/v1715954150/Screenshot_2024-05-17_192435_in14bs.png",
     tags: [
-      "Javascript",
-      "HTML",
-      "CSS",
       "Spring Boot",
       "ReactJs",
       "REST",
