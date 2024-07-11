@@ -5,7 +5,7 @@ export const Bio = {
     "I am a 3rd-year undergraduate at NIT Kurukshetra, pursuing BTech in Information Technology. I am passionate about exploring new things and constantly expanding my knowledge. Whether it's getting my hands on the keyboard or tackling challenging projects, I find great satisfaction in achieving success after overcoming obstacles. Moreover, spending quality time with my family and friends is a constant source of motivation and strength for me.",
   github: "https://github.com/VisheshGrg",
   resume:
-    "https://drive.google.com/file/d/1X2tfKQOcKMOklUoDNXSCLzGRXT_eSw8t/view?usp=sharing",
+    "https://drive.google.com/file/d/1EYpPA3ZcgRdplWXnYzOIx6atkKH-hua8/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/vishesh-garg-07580622b/",
   twitter: "https://twitter.com/VisheshGarg01",
   insta: "https://www.instagram.com/vishesh.garg.9693/",
@@ -78,6 +78,11 @@ export const skills = [
         name: "Spring",
         image:
           "https://download.logo.wine/logo/Spring_Framework/Spring_Framework-Logo.wine.png",
+      },
+      {
+        name: "Next.js",
+        image:
+          "https://static-00.iconduck.com/assets.00/nextjs-icon-512x512-y563b8iq.png",
       },
       {
         name: "Node Js",
